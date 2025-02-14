@@ -1,11 +1,19 @@
 ---
-title: "mysite "
+title: "Nicholas Beegle"
+#image:
+#toc: false
+about: 
+  template: jolla
+  #image-shape: round
+  #image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/nicholasbeegle/
+    - text: GitHub
+      href: https://github.com/beegle701
+    - text: Email
+      href: mailto:beegle99@colostate.edu
 ---
 
-This is a Quarto website.g
+I am a senior studying Ecosystem Science & Sustainability at Colorado State University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
