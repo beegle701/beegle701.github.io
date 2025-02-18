@@ -1,11 +1,11 @@
 ---
 title: "Nicholas Beegle"
-#image:
-#toc: false
+image: images/sitephoto.jpg
+toc: false
 about: 
   template: jolla
-  #image-shape: round
-  #image-width: 17em
+  image-shape: round
+  image-width: 17em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/nicholasbeegle/
