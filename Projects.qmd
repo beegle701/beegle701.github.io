@@ -1,3 +1,11 @@
 ---
 title: "Projects"
 ---
+
+I built this website for ESS330 - Quantitative Reasoning for Ecosystem Science using **R**. Here are links to some of my projects throughout the semester:
+
+## Project 1: This website!
+
+-   I learned how to set up a github repository and how it can effect workflow on future coding endeavors.
+
+-   I was also able to use RStudio and Quarto to help deploy a basic HTML webpages hosted by github.
