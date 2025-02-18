@@ -3,5 +3,5 @@ title: "Resume"
 format: html
 ---
 
-<object data="images/Nicholas Beegle Resume 2025.pdf" type="application/pdf" width="100%" height="800px"></object>
+<object data="images/nbresume.pdf" type="application/pdf" width="100%" height="800px"></object>
 ---
