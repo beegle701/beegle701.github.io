@@ -6,6 +6,6 @@ I built this website for ESS330 - Quantitative Reasoning for Ecosystem Science u
 
 ## Project 1: This website!
 
--   I learned how to set up a github repository and how it can effect workflow on future coding endeavors.
+-   I learned how to set up a github repository and how it can affect workflow on future coding endeavors.
 
 -   I was also able to use RStudio and Quarto to help deploy a basic HTML webpages hosted by github.

@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I built this website for ESS330 - Quantitative Reasoning for Ecosystem Science using R. Here are links to some of my projects throughout the semester:"
+  },
+  {
+    "objectID": "Projects.html#project-1-this-website",
+    "href": "Projects.html#project-1-this-website",
+    "title": "Projects",
+    "section": "Project 1: This website!",
+    "text": "Project 1: This website!\n\nI learned how to set up a github repository and how it can affect workflow on future coding endeavors.\nI was also able to use RStudio and Quarto to help deploy a basic HTML webpages hosted by github."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -11,6 +25,6 @@
     "href": "index.html",
     "title": "Nicholas Beegle",
     "section": "",
-    "text": "I am a senior studying Ecosystem Science & Sustainability at Colorado State University."
+    "text": "I am a senior studying Ecosystem Science & Sustainability at Colorado State University.\nI enjoy many forms of outdoor recreation such as backpacking, snowboarding, and climbing."
   }
 ]
