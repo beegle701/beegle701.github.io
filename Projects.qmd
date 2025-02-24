@@ -4,8 +4,14 @@ title: "Projects"
 
 I built this website for ESS330 - Quantitative Reasoning for Ecosystem Science using **R**. Here are links to some of my projects throughout the semester:
 
-## Project 1: This website!
+## Project 1: This Website!
 
--   I learned how to set up a github repository and how it can affect workflow on future coding endeavors.
+- I learned how to set up a github repository and how it can affect workflow on future coding endeavors.
 
--   I was also able to use RStudio and Quarto to help deploy a basic HTML webpages hosted by github.
+- I was also able to use RStudio and Quarto to help deploy a basic HTML webpages hosted by github.
+
+## [Project 2: Minnesota Tree Data Manipulation](lab2_mn_trees/lab2_mn_trees.qmd)
+
+- I learned how to use basic dyplr functions and how they manipulate data.
+
+- I learned how to manipulate and do calculations on large data sets.
