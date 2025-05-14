@@ -7,18 +7,81 @@
     "text": "I built this website for ESS330 - Quantitative Reasoning for Ecosystem Science using R. Here are links to some of my projects throughout the semester:"
   },
   {
-    "objectID": "Projects.html#project-1-this-website",
-    "href": "Projects.html#project-1-this-website",
+    "objectID": "Projects.html#lab-1-this-website",
+    "href": "Projects.html#lab-1-this-website",
     "title": "Projects",
-    "section": "Project 1: This Website!",
-    "text": "Project 1: This Website!\n\nI learned how to set up a github repository and how it can affect workflow on future coding endeavors.\nI was also able to use RStudio and Quarto to help deploy a basic HTML webpages hosted by github."
+    "section": "Lab 1: This Website!",
+    "text": "Lab 1: This Website!\n\nI learned how to set up a github repository and how it can affect workflow on future coding endeavors.\nI was also able to use RStudio and Quarto to help deploy a basic HTML webpages hosted by github."
   },
   {
-    "objectID": "Projects.html#project-2-minnesota-tree-data-manipulation",
-    "href": "Projects.html#project-2-minnesota-tree-data-manipulation",
+    "objectID": "Projects.html#lab-2-minnesota-tree-data-manipulation",
+    "href": "Projects.html#lab-2-minnesota-tree-data-manipulation",
     "title": "Projects",
-    "section": "Project 2: Minnesota Tree Data Manipulation",
-    "text": "Project 2: Minnesota Tree Data Manipulation\n\nI learned how to use basic dyplr functions and how they manipulate data.\nI learned how to manipulate and do calculations on large data sets."
+    "section": "Lab 2: Minnesota Tree Data Manipulation",
+    "text": "Lab 2: Minnesota Tree Data Manipulation\n\nI learned how to use basic dyplr functions and how they manipulate data.\nI learned how to manipulate and do calculations on large data sets."
+  },
+  {
+    "objectID": "Projects.html#lab-3-covid-wrangling-visualization",
+    "href": "Projects.html#lab-3-covid-wrangling-visualization",
+    "title": "Projects",
+    "section": "Lab 3: Covid Wrangling & Visualization",
+    "text": "Lab 3: Covid Wrangling & Visualization\n\nI learned how to clean and analyze real-world COVID-19 data using tools like pandas, including calculating rolling averages and normalizing data by population.\nI practiced creating visualizations and reports to track trends in county-level case and death rates, just like a public health analyst would."
+  },
+  {
+    "objectID": "Projects.html#lab-4-statistics-in-r",
+    "href": "Projects.html#lab-4-statistics-in-r",
+    "title": "Projects",
+    "section": "Lab 4: Statistics in R",
+    "text": "Lab 4: Statistics in R"
+  },
+  {
+    "objectID": "Projects.html#lab-5-project-proposals",
+    "href": "Projects.html#lab-5-project-proposals",
+    "title": "Projects",
+    "section": "Lab 5: Project Proposals",
+    "text": "Lab 5: Project Proposals"
+  },
+  {
+    "objectID": "Projects.html#lab-6-machine-learing-in-hydrology",
+    "href": "Projects.html#lab-6-machine-learing-in-hydrology",
+    "title": "Projects",
+    "section": "Lab 6: Machine Learing in Hydrology",
+    "text": "Lab 6: Machine Learing in Hydrology"
+  },
+  {
+    "objectID": "Projects.html#lab-7-project-kick-off",
+    "href": "Projects.html#lab-7-project-kick-off",
+    "title": "Projects",
+    "section": "Lab 7: Project Kick off",
+    "text": "Lab 7: Project Kick off"
+  },
+  {
+    "objectID": "Projects.html#lab-8-hyperperameter-tuning",
+    "href": "Projects.html#lab-8-hyperperameter-tuning",
+    "title": "Projects",
+    "section": "Lab 8: Hyperperameter Tuning",
+    "text": "Lab 8: Hyperperameter Tuning"
+  },
+  {
+    "objectID": "Projects.html#lab-9-project-updates---results-discussion",
+    "href": "Projects.html#lab-9-project-updates---results-discussion",
+    "title": "Projects",
+    "section": "Lab 9: Project Updates - Results & Discussion",
+    "text": "Lab 9: Project Updates - Results & Discussion"
+  },
+  {
+    "objectID": "Projects.html#lab-10-distances-and-projections",
+    "href": "Projects.html#lab-10-distances-and-projections",
+    "title": "Projects",
+    "section": "Lab 10: Distances and Projections",
+    "text": "Lab 10: Distances and Projections"
+  },
+  {
+    "objectID": "Projects.html#lab-11-final-project-report",
+    "href": "Projects.html#lab-11-final-project-report",
+    "title": "Projects",
+    "section": "Lab 11: Final Project Report",
+    "text": "Lab 11: Final Project Report"
   },
   {
     "objectID": "index.html",
