@@ -6,58 +6,58 @@ I built this website for ESS330 - Quantitative Reasoning for Ecosystem Science u
 
 ## Lab 1: This Website!
 
-- I learned how to set up a github repository and how it can affect workflow on future coding endeavors.
+-   I learned how to set up a github repository and how it can affect workflow on future coding endeavors.
 
-- I was also able to use RStudio and Quarto to help deploy a basic HTML webpages hosted by github.
+-   I was also able to use RStudio and Quarto to help deploy a basic HTML webpages hosted by github.
 
 ## [Lab 2: Minnesota Tree Data Manipulation](lab2_mn_trees/lab2_mn_trees.qmd)
 
-- I learned how to use basic dyplr functions and how they manipulate data.
+-   I learned how to use basic dyplr functions and how they manipulate data.
 
-- I learned how to manipulate and do calculations on large data sets.
+-   I learned how to manipulate and do calculations on large data sets.
 
 ## [Lab 3: Covid Wrangling & Visualization](https://beegle701.github.io/lab3_covid/)
 
-- I learned how to clean and analyze real-world COVID-19 data using tools like pandas, including calculating rolling averages and normalizing data by population.
+-   I learned how to clean and analyze real-world COVID-19 data using tools like pandas, including calculating rolling averages and normalizing data by population.
 
-- I practiced creating visualizations and reports to track trends in county-level case and death rates, just like a public health analyst would.
+-   I practiced creating visualizations and reports to track trends in county-level case and death rates, just like a public health analyst would.
 
 ## [Lab 4: Statistics in R](https://beegle701.github.io/lab4/)
 
-- I learned how to perform fundamental statistical analyses in R, including chi-square tests, t-tests, and correlation analyses, using ecological data from the Long-Term Ecological Research (LTER) Network.
+-   I learned how to perform fundamental statistical analyses in R, including chi-square tests, t-tests, and correlation analyses, using ecological data from the Long-Term Ecological Research (LTER) Network.
 
-- I explored multivariate techniques like ANOVA and linear regression to assess how forest treatments affect species such as cutthroat trout and salamanders.
+-   I explored multivariate techniques like ANOVA and linear regression to assess how forest treatments affect species such as cutthroat trout and salamanders.
 
 ## [Lab 5: Project Proposals](https://seanpear.github.io/ESS330-Project-Proposal/)
 
-- This was the intro to our final project. My partner Sean and I researched multiple different project proposals centered around watershed science and statistical analysis.
+-   This was the intro to our final project. My partner Sean and I researched multiple different project proposals centered around watershed science and statistical analysis.
 
 ## [Lab 6: Machine Learing in Hydrology](https://beegle701.github.io/lab6/)
 
-- I learned how to apply machine learning techniques in hydrology using the tidymodels framework in R, focusing on predicting mean streamflow for U.S. river basins with the CAMELS dataset.
+-   I learned how to apply machine learning techniques in hydrology using the tidymodels framework in R, focusing on predicting mean streamflow for U.S. river basins with the CAMELS dataset.
 
-- I practiced building and evaluating models by splitting data, creating preprocessing recipes, and comparing workflows to understand how basin characteristics influence streamflow.
+-   I practiced building and evaluating models by splitting data, creating preprocessing recipes, and comparing workflows to understand how basin characteristics influence streamflow.
 
 ## [Lab 7: Project Kick off](https://seanpear.github.io/Lab7_Final_Project/)
 
-- In this lab we set up the foundation for our project and developed a potential workflow. 
+-   In this lab we set up the foundation for our project and developed a potential workflow.
 
 ## [Lab 8: Hyperperameter Tuning](https://beegle701.github.io/lab6/hyperparameter-tuning.html)
 
-- I built a complete machine learning pipeline in R to predict mean streamflow using the CAMELS dataset, applying techniques like data splitting, feature engineering with recipes, and cross-validation with tidymodels.
+-   I built a complete machine learning pipeline in R to predict mean streamflow using the CAMELS dataset, applying techniques like data splitting, feature engineering with recipes, and cross-validation with tidymodels.
 
-- I compared multiple model types, tuned hyperparameters, and visualized predictions on a map to assess model performance across U.S. river basins.
+-   I compared multiple model types, tuned hyperparameters, and visualized predictions on a map to assess model performance across U.S. river basins.
 
 ## [Lab 9: Project Updates - Results & Discussion](https://seanpear.github.io/Lab7_Final_Project/)
 
-- This lab was the first round of analysis based on our chosen final project topic. We decided to investigate how green infrastructure effects surrounding rivers in terms of stream flashiness.
+-   This lab was the first round of analysis based on our chosen final project topic. We decided to investigate how green infrastructure effects surrounding rivers in terms of stream flashiness.
 
 ## [Lab 10: Distances and Projections](https://beegle701.github.io/Lab-10/)
 
-- I learned how to work with spatial data in R using the sf package, including importing geographic boundaries and city locations, defining appropriate map projections, and calculating distances between features like cities and borders.
+-   I learned how to work with spatial data in R using the sf package, including importing geographic boundaries and city locations, defining appropriate map projections, and calculating distances between features like cities and borders.
 
-- I practiced visualizing spatial relationships by creating maps that highlight distances to U.S. borders and neighboring countries, and explored real-world applications such as identifying cities within a defined border zone.
+-   I practiced visualizing spatial relationships by creating maps that highlight distances to U.S. borders and neighboring countries, and explored real-world applications such as identifying cities within a defined border zone.
 
 ## [Lab 11: Final Project Report](https://beegle701.github.io/Lab-11-Green-Infrastructure-In-Portland/report.html)
 
-- I completed a final research project that brought together all the skills I developed throughout the semester, including data wrangling, statistical analysis, and spatial modeling in R. This project was the culmination of our work, combining coding techniques, analytical workflows, and project development into a comprehensive, independent analysis.
+-   I completed a final research project that brought together all the skills I developed throughout the semester, including data wrangling, statistical analysis, and spatial modeling in R. This project was the culmination of our work, combining coding techniques, analytical workflows, and project development into a comprehensive, independent analysis.
